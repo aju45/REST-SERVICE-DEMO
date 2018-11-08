@@ -23,7 +23,7 @@ e. Enter Json Array to Input field and Hit Send Button
 
 f. if it is success it will return "success + your request Input" on Response Body !
 
-# 2.SoapUI App
+# 3.SoapUI App
 a. Download SoapUI App from here https://www.soapui.org/downloads/soapui.html
 
 b. File -> New REST Project
