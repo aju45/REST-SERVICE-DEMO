@@ -15,7 +15,7 @@ a. Download POSTMAN App from here https://www.getpostman.com/apps
 
 b. Set Request Method as POST
 
-c. Put URL as the Context Path/ + Controller Name/ + Method Name here 'http://localhost:8080/RestServiceDemo/restController/getDetails'
+c. Put URL as the Context Path/ + Controller Name/ + Method Name. here 'http://localhost:8080/RestServiceDemo/restController/getDetails'
 
 d. Select 'row' and 'JSON(application/json)' from 'Body'
 
@@ -28,7 +28,7 @@ a. Download SoapUI App from here https://www.soapui.org/downloads/soapui.html
 
 b. File -> New REST Project
 
-c. Put URI as the Context Path/ + Controller Name/ + Method Name here 'http://localhost:8080/RestServiceDemo/restController/getDetails'
+c. Put URI as the Context Path/ + Controller Name/ + Method Name here. 'http://localhost:8080/RestServiceDemo/restController/getDetails'
 
 d. Set Request Method as POST
 
